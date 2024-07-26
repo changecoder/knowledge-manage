@@ -6,7 +6,7 @@
 常用操作方法
 - **字符操作** charAt，charCodeAt(获取字符的 Unicode 编码)，fromCharCode(根据 Unicode 编码返回对应的字符)
 - **字符串提取** substr，substring ，slice
-- - **位置索引** indexOf ，lastIndexOf
+- **位置索引** indexOf ，lastIndexOf
 - **大小写转换** toLowerCase，toUpperCase
 - **模式匹配** match，search，replace，split
 - **其他操作** concat，trim，localeCompare
